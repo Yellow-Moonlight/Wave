@@ -1,5 +1,5 @@
 # Wave 🎛️  
-*A Modular Interactive Sequencer*
+*A Modular Interactive Sequencer for kids*
 
 ## Overview
 
