@@ -9,19 +9,19 @@ Each module responds to weight through a **load cell**, allowing the **pitch** t
 
 ## How It Works
 
-- 🔷 **Modular Design**  
+- **Modular Design**  
   Hexagonal modules connect via joints, forming custom configurations.
 
-- ⚖️ **Weight-Based Pitch Control**  
+- **Weight-Based Pitch Control**  
   Each module uses a load cell to detect weight, which determines the pitch of the step.
 
-- 🔌 **I2C Communication**  
+- **I2C Communication**  
   Each module contains a **Slave Arduino** that sends data to the **Master Arduino** over I2C.
 
-- 🎚️ **Signal Output**  
+- **Signal Output**  
   The master processes the input and generates **Gate** and **CV Out** signals to control external analog or modular synths.
 
-- ⏱️ **Planned Features**  
+- **Planned Features**  
   - Tempo control  
   - Expanded CV/Gate behavior  
   - Custom sequencing logic  
