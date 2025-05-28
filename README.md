@@ -26,6 +26,23 @@ Each module responds to weight through a **load cell**, allowing the **pitch** t
   - Expanded CV/Gate behavior  
   - Custom sequencing logic  
 
+## 3D Model
+
+You can download the 3D model of Wave and use it for printing or modification. Below is a preview of the model:
+
+![Wave 3D Model](wave/3d_files/wave_f3d.png)
+
+## Circuit Design
+
+The circuit for Wave was designed using **KiCad**. Below are previews of the schematic symbol and PCB layout:
+
+**Schematic Symbol**  
+![Schematic Symbol](wave/circuit/Symbol.png)
+
+**PCB Layout**  
+![PCB Layout](wave/circuit/PCB.png)
+
+
 ## Applications
 
 Wave is ideal for experimental music setups, sound installations, or educational environments where interaction, modularity, and sound design meet.
@@ -33,3 +50,16 @@ Wave is ideal for experimental music setups, sound installations, or educational
 ## Status
 
 🚧 *Wave is currently under development. More updates and documentation will be available soon.*
+
+## License
+
+[MIT](./LICENSE)
+
+## Links
+
+- GitHub Repository: *[Insert your GitHub link here]*  
+- Demo Video: *[Optional YouTube or media link]*
+
+---
+
+Created with ❤️ by [Your Name]
